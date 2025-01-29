@@ -1,4 +1,4 @@
-# Primeiro-Projeto - Calculadora
+# Primeiro Projeto - Calculadora em Python
 Este repositório trata-se do meu primeiro projeto em Python
 
 O projeto é bem simples, ele é composto por dois arquivos:
